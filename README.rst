@@ -1,18 +1,18 @@
 SDK
 ===
 
-.. image:: https://img.shields.io/pypi/v/com.svg
-    :target: https://pypi.python.org/pypi/com/
+.. image:: https://img.shields.io/pypi/v/aries.svg
+    :target: https://pypi.python.org/pypi/aries/
     :alt: Latest Version
 
-.. image:: https://img.shields.io/pypi/wheel/com.svg
-    :target: https://pypi.python.org/pypi/com/
+.. image:: https://img.shields.io/pypi/wheel/aries.svg
+    :target: https://pypi.python.org/pypi/aries/
 
-.. image:: https://img.shields.io/pypi/pyversions/com.svg
-    :target: https://pypi.python.org/pypi/com/
+.. image:: https://img.shields.io/pypi/pyversions/aries.svg
+    :target: https://pypi.python.org/pypi/aries/
 
-.. image:: https://img.shields.io/pypi/l/com.svg
-    :target: https://pypi.python.org/pypi/com/
+.. image:: https://img.shields.io/pypi/l/aries.svg
+    :target: https://pypi.python.org/pypi/aries/
 
 
 
@@ -26,7 +26,7 @@ Install and update using `pip`_:
 
 .. code-block:: text
 
-    pip install -U com
+    pip install -U aries
 
 
 

@@ -11,12 +11,12 @@ with io.open('README.rst', 'rt', encoding='utf8') as f:
     readme = f.read()
 
 setup(
-    name='com',
+    name='aries',
     version=version,
-    description='Com SDK.',
+    description='aries',
     long_description=readme,
-    url='https://github.com/pipname/com',
-    keywords='com sdk',
+    url='https://github.com/pipname/aries',
+    keywords='aries',
     author='Longniao',
     author_email='longniao@gmail.com',
     maintainer='Longniao',
